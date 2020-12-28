@@ -1,4 +1,5 @@
 # https://codeforces.com/problemset/problem/1/A
+# Getting the sides of the rectangle and the profuct of the remainder
 import math
 x = input()
 x = x.split()
