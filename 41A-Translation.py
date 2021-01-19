@@ -1,4 +1,3 @@
-# https://codeforces.com/contest/41/problem/A
 word = str(input())
 translated = str(input())
 final = "".join([e for e in ([translated[i:i+1]
