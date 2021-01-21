@@ -5,6 +5,5 @@ dices = {"Icosahedron": 20, "Dodecahedron": 12,
 count_dices = int(input())
 for _ in range(count_dices):
     dice = input()
-    if dice in dices:
-        sumSurface += dices[dice]
+    sumSurface += dices[dice]
 print(sumSurface)
