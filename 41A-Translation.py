@@ -1,3 +1,13 @@
+# Realized that there was a simpler answer
+word = str(input())
+translated = str(input())
+if translated[::-1] == word:
+    print("YES")
+else:
+    print("NO")
+
+# Old solution:
+"""
 word = str(input())
 translated = str(input())
 final = "".join([e for e in ([translated[i:i+1]
@@ -6,3 +16,4 @@ if final == word:
     print("YES")
 else:
     print("NO")
+"""
