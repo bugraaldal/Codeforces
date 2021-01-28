@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/69/A
 lines = int(input())
 xs, ys, zs = [], [], []
 for i in range(0, lines):
