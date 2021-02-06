@@ -19,7 +19,7 @@ for i in range(1, total_levels+1):
         print("Oh, my keyboard!")
         break
 
-if (check == 0):
+if check == 0:
     print("I become the guy.")
 
 # I have no idea why the code below doesn't work
