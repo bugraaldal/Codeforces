@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/266/B
 import re
 _, time_passed = map(int, input().split(" "))
 students = str(input())

@@ -1,3 +1,4 @@
+# https://codeforces.com/problemset/problem/41/A
 # Realized that there was a simpler answer
 word = str(input())
 translated = str(input())
